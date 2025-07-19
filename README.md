@@ -1,4 +1,4 @@
-# Blockchain Task 2 - Custom ERC-20 Token
+# Custom ERC-20 Token
 
 ## Overview
 This project implements a custom ERC-20 token using Solidity and OpenZeppelin.
