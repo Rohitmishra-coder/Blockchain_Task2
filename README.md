@@ -17,4 +17,7 @@ This project implements a custom ERC-20 token using Solidity and OpenZeppelin.
 
 ## Proof<img width="1366" height="692" alt="MyToken_Proof" src="https://github.com/user-attachments/assets/a09c642f-4b08-429a-a254-3debb235f633" />
 
+# Author
+**Rohit Mishra**
+
 
